@@ -17,12 +17,12 @@ export const Pages: CollectionConfig = {
                 position: 'sidebar'
             }
         },
-        {
-            name: 'layout',
-            label: 'Layout',
-            type: 'blocks',
-            blocks: [],
-        },
+        // {
+        //     name: 'layout',
+        //     label: 'Layout',
+        //     type: 'blocks',
+        //     blocks: [],
+        // },
     ]
 
 }
